@@ -73,15 +73,3 @@ Copy the full code from ChatGPT message and paste it into the Arduino IDE.
   ```cpp
   int t = 1000; // delay in milliseconds
   ```
-
----
-
-## 👍 **Enjoy Building!**
-
-If you want, I can also:
-
-* Add circuit diagram (ASCII / description)
-* Add Fritzing file
-* Add a more optimized version using arrays.
-
-Just tell me!
